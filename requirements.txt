@@ -1,0 +1,6 @@
+typer
+pydantic
+pint
+pandas
+openpyxl
+pytest

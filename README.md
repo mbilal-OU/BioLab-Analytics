@@ -2,6 +2,8 @@
 
 **A practical quantitative biosciences workspace for laboratory calculations, experimental planning, and reproducible bench-to-bioinformatics workflows.**
 
+🚀 **Live Dashboard:** https://biolab-analytics.streamlit.app/
+
 BioLab Analytics provides working calculators through both an interactive Streamlit dashboard and a command-line interface.
 
 ---

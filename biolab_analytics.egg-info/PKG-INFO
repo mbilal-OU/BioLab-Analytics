@@ -1,3 +1,16 @@
+Metadata-Version: 2.4
+Name: biolab-analytics
+Version: 1.1.0
+Summary: Quantitative biosciences calculators and dashboard for laboratory planning.
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: streamlit
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: license-file
+
 # BioLab Analytics
 
 **A practical quantitative biosciences workspace for laboratory calculations, experimental planning, and reproducible bench-to-bioinformatics workflows.**

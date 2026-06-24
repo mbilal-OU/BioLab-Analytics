@@ -1,0 +1,2 @@
+[console_scripts]
+biolab-analytics = biolab_analytics.cli:main

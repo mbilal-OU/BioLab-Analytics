@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "biolab-analytics"
+version = "1.1.0"
+description = "Quantitative biosciences calculators and dashboard for laboratory planning."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["streamlit", "pandas", "numpy", "matplotlib"]
+
+[tool.setuptools.packages.find]
+include = ["biolab_analytics*"]
+
+[project.scripts]
+biolab-analytics = "biolab_analytics.cli:main"
